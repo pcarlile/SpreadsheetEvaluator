@@ -1,6 +1,6 @@
-# Project Title
+# Spreadsheet evaluator
 
-Spreadsheet evaluator
+Simple evaluator of spreadsheet expressions
 
 ## Description
 
